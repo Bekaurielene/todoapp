@@ -1,4 +1,3 @@
-import React from "react";
 import type { Todo } from "../../types/Todo";
 import styles from "./TodoItem.module.css";
 
