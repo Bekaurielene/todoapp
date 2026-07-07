@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import type { Todo } from "./types/Todo";
 import TodoCard from "./component/TodoCard/TodoCard";
 import styles from "./App.module.css";
